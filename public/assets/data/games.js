@@ -1,10 +1,5 @@
 var games = [
   {
-    id: 'customgame',
-    title: 'Add custom game',
-    image: 'assets/images/add.png'
-  },
-  {
     id: 'idlebreakout',
     title: 'Idle Breakout',
     url: 'https://assets.3kh0.net/idle-breakout/index.html/',
